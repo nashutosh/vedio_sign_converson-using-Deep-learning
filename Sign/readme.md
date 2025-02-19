@@ -1,8 +1,6 @@
 # 🧏‍♂️ Sign Language Translation using Deep Learning
 
-![Sign Language](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/ASL_alphabet.png/800px-ASL_alphabet.png)
-
-> **Developed by [NMS Softwares and Innovations India Pvt. Ltd.](https://github.com/Nmssoftwares)**
+> **Developed by [Ashutosh Singh.](https://github.com/nashutosh)**
 
 ## 🚀 Project Overview
 
@@ -73,9 +71,9 @@ python inference.py --video input.mp4
 🔹 High accuracy in real-time gesture recognition 🏅  
 
 ## 📬 Contact & Contributions
-🔹 **GitHub**: [Nmssoftwares](https://github.com/Nmssoftwares)  
-🔹 **Email**: contact@nmssoftwares.com  
+🔹 **GitHub**: [Ashutosh SIngh](https://github.com/nashutosh)  
+🔹 **Email**: ashutoshsingh6376@gmail.com 
 🔹 **Contributions** are welcome! Fork & PR 🎉  
 
 ---
-Made with ❤️ by **NMS Softwares and Innovations India Pvt. Ltd.**
+Made with ❤️ by **Ashutosh Singh.**
